@@ -1,7 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azuretraininglr;AccountKey=iQXz7f/REiJPkBwSCE4Mm6vHoSGBFaqdsJsQSQhaacY21GwZQ1YgjgS3icRHlhL3a7cXo/QpudJgdJgUaaVR6A==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsStorage": "<connectionstring to azure container>",
     "FUNCTIONS_WORKER_RUNTIME": "python"
   }
 }
